@@ -1,0 +1,8 @@
+{
+  "name": "hoppyz",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.43.0"
+  }
+}
